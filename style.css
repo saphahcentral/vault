@@ -228,3 +228,27 @@ a:hover {
         font-size: 1.6em;
     }
 }
+
+.vault-header {
+    border-bottom: 1px solid rgba(201,196,184,0.2);
+    padding: 20px 0;
+    margin-bottom: 40px;
+}
+
+.vault-header-inner {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 24px;
+}
+
+.vault-mark {
+    font-size: 1.2em;
+    letter-spacing: 0.25em;
+}
+
+.vault-submark {
+    font-size: 0.8em;
+    opacity: 0.6;
+    letter-spacing: 0.15em;
+    margin-top: 6px;
+}
