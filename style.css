@@ -56,6 +56,7 @@ a:hover {
     height: auto;
     margin-bottom: 50px;
     opacity: 0.95;
+    filter: brightness(70%) contrast(110%) saturate(80%);
 }
 
 .vault-text {
