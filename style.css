@@ -269,3 +269,19 @@ a:hover {
 .vault-footer p {
     margin: 0 0 12px 0;
 }
+
+.vault-crawl-credit {
+  text-align: center;
+  font-size: 0.7em;
+  opacity: 0.35;
+  margin-top: 40px;
+}
+
+.vault-crawl-credit a {
+  color: #888;
+  text-decoration: none;
+}
+
+.vault-crawl-credit a:hover {
+  opacity: 0.7;
+}
