@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /vault/
+
+Disallow: /vault/oc1/
+Disallow: /vault/oc2/
+Disallow: /vault/oc3/
