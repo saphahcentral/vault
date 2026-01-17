@@ -5,36 +5,44 @@
 <title>The African Exodus — Vault Maintenance</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="robots" content="noindex, follow">
 
 <!-- VAULT-LOCAL STYLE -->
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://saphahcentral.github.io/vault/style.css">
+
+<!-- DYNAMIC INCLUDES -->
+<script src="https://saphahcentral.github.io/vault/include.js" defer></script>
 
 </head>
 <body>
 
-<div class="vault-container">
+    <!-- DYNAMIC HEADER -->
+    <div data-include="header.html"></div>
 
-    <!-- VAULT IMAGE (reuse the same mysterious door) -->
-    <img src="Vault.jpg" alt="A vault door, slightly ajar" class="vault-image">
+    <div class="vault-container">
 
-    <!-- MAINTENANCE TEXT -->
-    <div class="vault-text">
-        <p>The Vault is currently under maintenance.</p>
+        <!-- VAULT IMAGE (reuse the same mysterious door) -->
+        <img src="Vault.jpg" alt="A vault door, slightly ajar" class="vault-image">
 
-        <p>Ancient scrolls are being prepared, and the archive cannot be accessed at this time.</p>
+        <!-- MAINTENANCE TEXT -->
+        <div class="vault-text">
+            <p>The Vault is currently under maintenance.</p>
 
-        <p>Those who arrived here must return later, when the Vault opens again.</p>
+            <p>Ancient scrolls are being prepared, and the archive cannot be accessed at this time.</p>
 
-        <p class="sealed">Patience is the key to discovery.</p>
+            <p>Those who arrived here must return later, when the Vault opens again.</p>
+
+            <p class="sealed">Patience is the key to discovery.</p>
+        </div>
+
+        <!-- TEMPORARY ACTION -->
+        <div class="vault-enter">
+            <a href="index.html">Return to Vault Entrance</a>
+        </div>
+
     </div>
 
-    <!-- TEMPORARY ACTION -->
-    <div class="vault-enter">
-        <a href="/index.html">Return to Vault Entrance</a>
-    </div>
-
-</div>
+    <!-- DYNAMIC FOOTER -->
+    <div data-include="footer.html"></div>
 
 </body>
 </html>
