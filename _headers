@@ -1,0 +1,47 @@
+# =====================================================
+# OBSIDIAN CODEX — ACCESS HEADERS
+# =====================================================
+
+# ---------- ROOT / OC0 (Publicly Crawlable) ----------
+/vault/*
+  Cache-Control: public, max-age=3600
+  X-Access-Level: OC0
+  X-Vault-System: ObsidianCodex/1.0
+  X-Request-ID: {request_id}
+  X-Client-Timestamp: {date_iso}
+
+# ---------- VAULT1 (Restricted) ----------
+/vault/VAULT1/*
+  Cache-Control: private, max-age=0, no-store
+  X-Access-Level: OC1
+  X-Vault-System: ObsidianCodex/1.0
+  X-Request-ID: {request_id}
+  X-Client-Timestamp: {date_iso}
+  Authorization: Bearer <OAUTH_TOKEN>
+
+# ---------- VAULT2 (More Restricted) ----------
+/vault/VAULT2/*
+  Cache-Control: private, max-age=0, no-store
+  X-Access-Level: OC2
+  X-Vault-System: ObsidianCodex/1.0
+  X-Request-ID: {request_id}
+  X-Client-Timestamp: {date_iso}
+  Authorization: Bearer <OAUTH_TOKEN>
+
+# ---------- VAULT3 (Deep Core / Highly Restricted) ----------
+/vault/VAULT3/*
+  Cache-Control: private, max-age=0, no-store
+  X-Access-Level: OC3
+  X-Vault-System: ObsidianCodex/1.0
+  X-Request-ID: {request_id}
+  X-Client-Timestamp: {date_iso}
+  Authorization: Bearer <OAUTH_TOKEN>
+
+# ---------- DATA FOLDER (Not Crawled, Service Access Only) ----------
+/vault/DATA/*
+  Cache-Control: private, max-age=0, no-store
+  X-Access-Level: DATA
+  X-Vault-System: ObsidianCodex/1.0
+  X-Request-ID: {request_id}
+  X-Client-Timestamp: {date_iso}
+  Authorization: Bearer <OAUTH_TOKEN>
