@@ -1,4 +1,7 @@
 TITLE: The Age of Giants
+CODEX: OC3
+DOCUMENT: OC3-005
+EPOCH: The First World
 SECTION: Tartarus World — The Rise of the Nephilim
 
 Before the memory of human nations, before the names of kings were written in stone, the world entered an age that later generations would remember only through fragments of myth.
