@@ -1,0 +1,20 @@
+TITLE: The Secret Maps of the Earth
+CODEX: OC3
+DOCUMENT: OC3-077
+EPOCH: See VAULT3 Spine
+SECTION: Obsidian Codex Archive Entry
+
+[CONTENT PLACEHOLDER]
+
+This file is prepared as part of the VAULT3 batch structure for the Obsidian Codex.
+Insert the full ~3,100 word mini-book content here following the approved theme
+from the VAULT3 master spine.
+
+Structure guideline:
+
+• Maintain narrative consistency with the VAULT3 chronology.
+• Keep the document between 3,000 and 3,200 words.
+• Avoid internal page breaks; the index system will handle pagination.
+• Maintain consistent tone and archival style.
+
+Prepared for batch commit.
