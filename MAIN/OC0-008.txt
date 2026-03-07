@@ -1,3 +1,5 @@
+TITLE: Levels Of Access
+
 The Obsidian Codex is structured in levels.
 
 OC0 (MAIN)
