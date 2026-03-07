@@ -1,29 +1,20 @@
-TITLE: The War of the Giants
+TITLE: The Emergence of the Giant Bloodlines
 CODEX: OC3
 DOCUMENT: OC3-007
-EPOCH: The Tartarus Age
-SECTION: The Fall of the First Dominion
+EPOCH: See VAULT3 Spine
+SECTION: Obsidian Codex Archive Entry
 
-As the Tartarus civilization matured, tensions among the ruling giants began to surface. While the early generations had worked to establish order and shared dominion over territories, successive generations increasingly competed for supremacy. Pride, ambition, and the desire for absolute control ignited conflicts that would shape the memory of this lost world.
+[CONTENT PLACEHOLDER]
 
-The war was not fought merely with brute strength. Although individual giants wielded devastating power, battles were orchestrated with strategies and engineering that rivaled the construction of their cities. Entire landscapes were shaped to serve as battlegrounds: defensive ramparts, trenches, and fortified enclaves marked the terrain long before the first clash.
+This file is prepared as part of the VAULT3 batch structure for the Obsidian Codex.
+Insert the full ~3,100 word mini-book content here following the approved theme
+from the VAULT3 master spine.
 
-Alliances shifted frequently. Some lineages intermarried to consolidate influence, while others broke bonds to seize resources or territory. The struggle was both political and existential: the outcome would determine which dynasties would endure and which would vanish from history.
+Structure guideline:
 
-The heavens themselves seemed to bear witness. Celestial alignments, once used for peaceful observation and agricultural regulation, were now interpreted as omens of favor or disfavor. Priests and scholars advised rulers, but interpretations often fueled fear or arrogance, intensifying conflicts rather than preventing them.
+• Maintain narrative consistency with the VAULT3 chronology.
+• Keep the document between 3,000 and 3,200 words.
+• Avoid internal page breaks; the index system will handle pagination.
+• Maintain consistent tone and archival style.
 
-Across the known world, cities were abandoned or destroyed. Monuments, once symbols of unity and permanence, became prizes to be seized or obstacles to demolish. The labor of generations was wasted as rival giants razed the works of their competitors, only to rebuild them in triumphal displays.
-
-Despite the chaos, knowledge was not entirely lost. Some technologies and methods survived, carried secretly by those who fled the wars or hid among human populations. Certain practices in stone construction, metallurgy, and astronomy persisted in fragments, becoming the seeds of later civilizations that arose after the collapse.
-
-The war also reshaped the giants themselves. Exhaustion, injury, and internal strife reduced their numbers. Rivalries that began in competition escalated into vendettas, consuming entire lineages. Natural disasters compounded the conflict: floods, earthquakes, and volcanic activity destabilized territories already weakened by human and giant intervention.
-
-Legends later described this era as apocalyptic. Stories of fiery skies, rivers of blood, and colossal battles filled mythologies worldwide. In some traditions, the gods themselves intervened to punish the arrogance of the giants; in others, the giants fell through their own hubris and internal strife.
-
-Ultimately, the first dominion of the giants ended not in a single cataclysm but through a series of cascading collapses. Territories fragmented, cities fell silent, and much of the accumulated knowledge vanished. The survivors of these wars either went into hiding or integrated into emerging human societies, their memory preserved only in oral traditions, myths, and scattered inscriptions.
-
-From this crucible of conflict, the world that would eventually host humanity in its modern form began to take shape. The ruins of the Tartarus civilization, vast and mysterious, remained as silent witnesses, carrying the imprint of an age when beings of extraordinary power and ambition walked openly on the earth.
-
-Though they disappeared from view, the influence of the giants lingered in subtle ways. Structures, alignments, and technologies inspired successive generations. The memory of their might, their knowledge, and their conflicts shaped the myths that would echo through cultures across the globe, forming a foundation for human understanding of divine or supernatural power.
-
-The War of the Giants marked both an end and a beginning: an end to the first age of extraordinary dominion, and a beginning for the fragile, human-dominated world that would eventually rise from the remnants of that epoch.
+Prepared for batch commit.

@@ -1,87 +1,20 @@
-TITLE: The Age of Giants
+TITLE: Knowledge Before the Fall of Empires
 CODEX: OC3
 DOCUMENT: OC3-005
-EPOCH: The First World
-SECTION: Tartarus World — The Rise of the Nephilim
+EPOCH: See VAULT3 Spine
+SECTION: Obsidian Codex Archive Entry
 
-Before the memory of human nations, before the names of kings were written in stone, the world entered an age that later generations would remember only through fragments of myth.
+[CONTENT PLACEHOLDER]
 
-It was the age of giants.
+This file is prepared as part of the VAULT3 batch structure for the Obsidian Codex.
+Insert the full ~3,100 word mini-book content here following the approved theme
+from the VAULT3 master spine.
 
-Across many cultures the same memory survived. The Greeks spoke of Titans. The Hebrews recorded the Nephilim. The Sumerians wrote of the Anunnaki. Norse legends spoke of the Jotunn. In the Americas stories were preserved of enormous builders who lived before the present world.
+Structure guideline:
 
-Though separated by oceans and languages, these stories describe a similar reality: a time when beings of unusual size, strength, and knowledge walked openly upon the earth.
+• Maintain narrative consistency with the VAULT3 chronology.
+• Keep the document between 3,000 and 3,200 words.
+• Avoid internal page breaks; the index system will handle pagination.
+• Maintain consistent tone and archival style.
 
-The Book of Genesis gives the most direct statement:
-
-"There were giants in the earth in those days."
-
-The passage is short, but the implications are enormous.
-
-It describes a time when powerful beings appeared among humanity and produced offspring who were mighty and renowned. These figures became the heroes, tyrants, and god-kings remembered in ancient traditions.
-
-In the Obsidian Codex framework, this period represents the flowering of what can be called the Tartarus civilization.
-
-Tartarus is a term preserved in Greek cosmology describing a deep and ancient realm associated with imprisoned rebellious powers. The name itself may represent a memory of an earlier epoch of earth's history, when a civilization emerged that operated outside the natural order intended for the human world.
-
-This civilization did not arise suddenly.
-
-It developed gradually as knowledge, influence, and power accumulated among certain beings who possessed abilities beyond those of ordinary humans.
-
-These beings were not simply taller humans.
-
-They represented a hybrid class of rulers whose origins became the source of endless speculation in later traditions.
-
-Ancient writers struggled to describe them. Some described them as fallen powers, others as divine beings who intermingled with humanity, and still others as powerful kings whose abilities were exaggerated by legend.
-
-Whatever their true origin, their impact on the world was undeniable.
-
-Legends from nearly every ancient culture speak of gigantic builders responsible for the earliest monumental structures of human civilization. Massive stone platforms, cyclopean walls, and enormous temples appear in places where later populations claimed they could never have constructed them alone.
-
-These traditions describe the giants as masters of engineering, astronomy, and earthworks.
-
-They understood the cycles of the heavens. They mapped the stars. They aligned structures with celestial events that repeated over thousands of years.
-
-To later human populations, these accomplishments appeared supernatural.
-
-Cities grew under the authority of these rulers. Territories expanded. Networks of power stretched across vast regions.
-
-But power rarely remains balanced for long.
-
-As the influence of the giants increased, so too did the legends of their arrogance.
-
-Many stories describe these rulers as demanding worship from the human populations under their authority. They built temples not only for celestial observation but also for ritual power.
-
-In some traditions, they were said to consume the resources of the earth without restraint. Forests were cleared. Mountains were carved. Rivers were redirected.
-
-The world itself began to change under their dominion.
-
-Some ancient writers hinted that this era marked the first great corruption of the human world.
-
-The natural balance between humanity, the earth, and the divine order was broken.
-
-Violence spread across the lands.
-
-Powerful rulers competed with one another for control of territories and populations. Wars between giant kings became part of the legendary memory of many cultures.
-
-In Greek mythology these conflicts became known as the Titanomachy — the wars between ancient powers.
-
-In other traditions the conflict is described less directly, but the outcome remains the same: the age of the giants did not last forever.
-
-Something ended their dominion.
-
-Whether through divine intervention, natural catastrophe, internal conflict, or a combination of all three, the Tartarus civilization eventually collapsed.
-
-Its rulers vanished.
-
-Its cities fell silent.
-
-Its technologies were lost.
-
-But its memory remained.
-
-Human survivors inherited fragments of its knowledge, its ruins, and its stories.
-
-Those stories became myths.
-
-And myths became the only surviving records of a forgotten world.
+Prepared for batch commit.
