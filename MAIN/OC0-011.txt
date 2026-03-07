@@ -1,3 +1,5 @@
+TITLE: The Purpose
+
 The purpose of the Obsidian Codex is exploration.
 
 To ask better questions.
