@@ -1,6 +1,6 @@
-TITLE: The Comets of Judgment
+TITLE: The Cleansing of the Earth
 CODEX: OC3
-DOCUMENT: OC3-044
+DOCUMENT: OC3-059
 EPOCH: See VAULT3 Spine
 SECTION: Obsidian Codex Archive Entry
 

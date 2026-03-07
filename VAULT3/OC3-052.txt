@@ -1,6 +1,6 @@
-TITLE: The Comets of Judgment
+TITLE: The Collapse of Nations
 CODEX: OC3
-DOCUMENT: OC3-044
+DOCUMENT: OC3-052
 EPOCH: See VAULT3 Spine
 SECTION: Obsidian Codex Archive Entry
 
