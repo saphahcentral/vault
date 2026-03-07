@@ -1,3 +1,5 @@
+TITLE: The Timeline Approach
+
 The Codex uses layered timeline analysis.
 
 Instead of assuming a single continuous narrative, the model compares:
