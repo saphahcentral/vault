@@ -1,4 +1,4 @@
-Welcome to the Obsidian Codex.
+TITLE: Welcome to the Obsidian Codex.
 
 This library is a structured collection of research, historical models, geographic correlations, and alternative frameworks that explore humanity’s ancient past and possible future trajectories.
 
