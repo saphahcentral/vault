@@ -1,7 +1,0 @@
-User-agent: *
-Allow: /vault/
-
-Disallow: /vault/VAULT1/
-Disallow: /vault/VAULT2/
-Disallow: /vault/VAULT3/
-Disallow: /vault/DATA
