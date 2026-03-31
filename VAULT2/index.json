@@ -1,27 +1,15 @@
 [
-  { "title": "OC2-001", "file": "OC2-001.md" }
-,
-  { "title": "OC2-002", "file": "OC2-002.md" }
-,
-  { "title": "OC2-003", "file": "OC2-003.md" }
-,
-  { "title": "OC2-004", "file": "OC2-004.md" }
-,
-  { "title": "OC2-005", "file": "OC2-005.md" }
-,
-  { "title": "OC2-006", "file": "OC2-006.md" }
-,
-  { "title": "OC2-007", "file": "OC2-007.md" }
-,
-  { "title": "OC2-008", "file": "OC2-008.md" }
-,
-  { "title": "OC2-009", "file": "OC2-009.md" }
-,
-  { "title": "OC2-010", "file": "OC2-010.md" }
-,
-  { "title": "OC2-011", "file": "OC2-011.md" }
-,
-  { "title": "OC2-012", "file": "OC2-012.md" }
-,
+  { "title": "OC2-001", "file": "OC2-001.md" },
+  { "title": "OC2-002", "file": "OC2-002.md" },
+  { "title": "OC2-003", "file": "OC2-003.md" },
+  { "title": "OC2-004", "file": "OC2-004.md" },
+  { "title": "OC2-005", "file": "OC2-005.md" },
+  { "title": "OC2-006", "file": "OC2-006.md" },
+  { "title": "OC2-007", "file": "OC2-007.md" },
+  { "title": "OC2-008", "file": "OC2-008.md" },
+  { "title": "OC2-009", "file": "OC2-009.md" },
+  { "title": "OC2-010", "file": "OC2-010.md" },
+  { "title": "OC2-011", "file": "OC2-011.md" },
+  { "title": "OC2-012", "file": "OC2-012.md" },
   { "title": "OC2-099", "file": "OC2-099.md" }
 ]
