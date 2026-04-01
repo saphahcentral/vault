@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /_data/
+Disallow: /_layouts/
+Disallow: /_includes/
