@@ -1,0 +1,39 @@
+# ==========================================
+# PROJECT: OBSIDIAN CODEX
+# ARCHITECTURE: MULTI-LAYERED VAULT
+# ==========================================
+
+title: OBSIDIAN CODEX
+description: The multi-layered archive of the African Exodus and world epochs.
+url: "https://saphahcentral.github.io"
+baseurl: "/vault"
+
+# ------------------------------------------
+# CRITICAL: UNHIDE THE BUNKER
+# This allows the browser to fetch files from the _data directory.
+# ------------------------------------------
+include:
+  - "_data"
+
+# ------------------------------------------
+# RENDERING ENGINE
+# ------------------------------------------
+markdown: kramdown
+highlighter: rouge
+
+# ------------------------------------------
+# PERMALINKS
+# ------------------------------------------
+permalink: /:path/:basename/
+
+# ------------------------------------------
+# EXCLUSIONS (Standard)
+# ------------------------------------------
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
