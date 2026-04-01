@@ -1,4 +1,17 @@
 User-agent: *
+# Allow discovery of Landing and Main Archive
+Allow: /index.html
+Allow: /index-vault.html
+Allow: /display-main.html
+
+# Block restricted Vault batch files
+Disallow: /display-vault1.html
+Disallow: /next-vault1.html
+Disallow: /pay-vault1.html
+Disallow: /display-vault2.html
+Disallow: /next-vault2.html
+Disallow: /pay-vault2.html
+Disallow: /display-vault3.html
+
+# Block the Data Bunker
 Disallow: /_data/
-Disallow: /_layouts/
-Disallow: /_includes/
