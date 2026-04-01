@@ -37,3 +37,37 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+# =====================================================
+# OBSIDIAN CODEX: ACCESS AUTHORIZATION MAP
+# =====================================================
+# These levels define the security "lore" and UI logic
+# for the multi-layered vault structure.
+
+vault_access:
+  main:
+    level: "OC0"
+    status: "PUBLIC ARCHIVE"
+    crawling: "PERMITTED"
+    security_clearance: "UNRESTRICTED"
+  vault1:
+    level: "OC1"
+    status: "RESTRICTED ACCESS"
+    crawling: "SHIELDED"
+    security_clearance: "BASIC VALIDATION REQUIRED"
+  vault2:
+    level: "OC2"
+    status: "HIGH SECURITY"
+    crawling: "SANITIZED"
+    security_clearance: "ADVANCED AUTHENTICATION REQUIRED"
+  vault3:
+    level: "OC3"
+    status: "DEEP CORE / CLASSIFIED"
+    crawling: "TOTAL BLACKOUT"
+    security_clearance: "COMMANDER LEVEL ONLY"
+  data_bunker:
+    level: "DATA"
+    status: "SERVICE ACCESS ONLY"
+    crawling: "FORBIDDEN"
+    security_clearance: "ENCRYPTED"
+    
